@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04402\\ServerT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43588B3E-1C5B-42D1-9533-6995F2C60F0B}|ClientT\\ClientT.vcxproj|C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04402\\ServerT\\ClientT\\ClientT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{43588B3E-1C5B-42D1-9533-6995F2C60F0B}|ClientT\\ClientT.vcxproj|solutionrelative:ClientT\\ClientT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{026F77AF-1F2F-43B9-A412-AB6AC90F897A}|ServerT\\ServerT.vcxproj|C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04402\\ServerT\\ServerT\\ServerT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{026F77AF-1F2F-43B9-A412-AB6AC90F897A}|ServerT\\ServerT.vcxproj|solutionrelative:ServerT\\ServerT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43588B3E-1C5B-42D1-9533-6995F2C60F0B}|ClientT\\ClientT.vcxproj|C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04402\\ServerT\\ClientT\\ClientT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43588B3E-1C5B-42D1-9533-6995F2C60F0B}|ClientT\\ClientT.vcxproj|solutionrelative:ClientT\\ClientT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClientT.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04402\\ServerT\\ClientT\\ClientT.cpp",
               "RelativeDocumentMoniker": "ClientT\\ClientT.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04402\\ServerT\\ClientT\\ClientT.cpp",
               "RelativeToolTip": "ClientT\\ClientT.cpp",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAEgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-18T15:48:31.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ServerT.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04402\\ServerT\\ServerT\\ServerT.cpp",
               "RelativeDocumentMoniker": "ServerT\\ServerT.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04402\\ServerT\\ServerT\\ServerT.cpp",
               "RelativeToolTip": "ServerT\\ServerT.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAQwIcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-18T14:43:58.181Z"
+              "WhenOpened": "2025-09-18T14:43:58.181Z",
+              "EditorCaption": ""
             }
           ]
         }
