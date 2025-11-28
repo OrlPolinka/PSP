@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04407\\lab_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B901BD87-C946-482A-9F47-5B440DB74730}|ClientMS_Broad\\ClientMS_Broad.vcxproj|C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04407\\lab_7\\ClientMS_Broad\\ClientMS_Broad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B901BD87-C946-482A-9F47-5B440DB74730}|ClientMS_Broad\\ClientMS_Broad.vcxproj|solutionrelative:ClientMS_Broad\\ClientMS_Broad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7104DF94-C0E6-4C58-868E-77518108FEF9}|ClientMS\\ClientMS.vcxproj|C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04407\\lab_7\\ClientMS\\ClientMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7104DF94-C0E6-4C58-868E-77518108FEF9}|ClientMS\\ClientMS.vcxproj|solutionrelative:ClientMS\\ClientMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790B338A-9CC0-4B6B-A70F-CB16F6C68472}|ServerMS\\ServerMS.vcxproj|C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04407\\lab_7\\ServerMS\\ServerMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{790B338A-9CC0-4B6B-A70F-CB16F6C68472}|ServerMS\\ServerMS.vcxproj|solutionrelative:ServerMS\\ServerMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientMS_Broad.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04407\\lab_7\\ClientMS_Broad\\ClientMS_Broad.cpp",
+              "RelativeDocumentMoniker": "ClientMS_Broad\\ClientMS_Broad.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04407\\lab_7\\ClientMS_Broad\\ClientMS_Broad.cpp",
+              "RelativeToolTip": "ClientMS_Broad\\ClientMS_Broad.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwC4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T11:59:39.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientMS.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04407\\lab_7\\ClientMS\\ClientMS.cpp",
+              "RelativeDocumentMoniker": "ClientMS\\ClientMS.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04407\\lab_7\\ClientMS\\ClientMS.cpp",
+              "RelativeToolTip": "ClientMS\\ClientMS.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T11:40:22.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerMS.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04407\\lab_7\\ServerMS\\ServerMS.cpp",
+              "RelativeDocumentMoniker": "ServerMS\\ServerMS.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\VS\\\u043F\u0441\u043F\\PSP\\\u043B\u04407\\lab_7\\ServerMS\\ServerMS.cpp",
+              "RelativeToolTip": "ServerMS\\ServerMS.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T11:36:22.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
